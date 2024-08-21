@@ -7,6 +7,10 @@ body {
   align-items: center;
 }
 
+.header {
+  margin-bottom: 20%;
+}
+
 .double_range_slider_box {
   position: relative;
   width: 80vw;
