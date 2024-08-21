@@ -18,6 +18,7 @@ const PriceRange = ({ minRange, maxRange }) => {
 
     return (
         <div className="double_range_slider_box">
+            <h1>Slider without libraries</h1>
             <Track
                 min={currentMinValue}
                 max={currentMaxValue}
